@@ -1,0 +1,4 @@
+{
+    "tyoe": "sqlite",
+    "database": "src/database/database.sqlite"
+}
